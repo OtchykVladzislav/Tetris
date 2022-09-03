@@ -1,0 +1,8 @@
+.image{
+    width: 300px;
+    height: 300px;
+    outline: auto;
+    background-image: url("ava.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}

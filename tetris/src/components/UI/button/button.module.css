@@ -1,0 +1,11 @@
+.but{
+    width: max-content;
+    height: max-content;
+    padding: 10px;
+    font-size: 20px;
+    margin: 15px;
+}
+
+.but:hover{
+    transform: scale(1.05);
+}
